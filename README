@@ -1,2 +1,3 @@
 This project includes the implementation of an FM Radio Via Adalm-Pluto, along with Gnu Radio Companion.
 Before you start over, you must read the requirements, which are included in the report.pdf
+A very good repository that contains the installation and build of gr-rds blocks, is https://github.com/bastibl/gr-rds
